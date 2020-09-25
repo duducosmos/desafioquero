@@ -27,4 +27,4 @@ pyDAL. As tabelas foram construídas programáticamente em Python, permitindo a 
 Os dados foram injetados num banco de dados PostgreSQL.
 Abaixo está o diagrama de entidade relacionamento para o banco gerado.
 
-[!./
+![Diagrama](./diagrama_db/diagrama.png)
