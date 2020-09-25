@@ -23,10 +23,11 @@ Os elementos categóricos foram mapeados, fazendo uma reeducação de elementos 
 Reduzido de informções.
 
 Para o banco de dados foi utilizado uma Camada de Abstração de Banco de Dados -
-pyDAL. As tabelas foram construídas programáticamente em Python, permitindo a integração com um grupo maior de banco de dados.
+pyDAL. As tabelas foram construídas programaticamente em Python, permitindo a integração com um grupo maior de banco de dados.
 Os dados foram injetados num banco de dados PostgreSQL.
 Abaixo está o diagrama de entidade relacionamento para o banco gerado.
 
 Os códigos de tratamento, injeção e criação do banco de dados estão na pasta Scripts.
+
 
 ![Diagrama](./diagrama_db/diagrama.png)
