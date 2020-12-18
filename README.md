@@ -18,8 +18,8 @@ Observação: O script pode ser feito em qualquer linguagem (de preferência Pyt
 
 ## Solução
 
-Para a coleta dos dados foi utilizado a biblioteca requests juntamente con Pandas.
-Os elementos categóricos foram mapeados, fazendo uma reeducação de elementos comuns a um conjunto
+Para a coleta dos dados foi utilizado a biblioteca requests juntamente com Pandas.
+Os elementos categóricos foram mapeados, fazendo uma reducação de elementos comuns a um conjunto
 Reduzido de informções.
 
 Para o banco de dados foi utilizado uma Camada de Abstração de Banco de Dados -
